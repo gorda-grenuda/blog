@@ -1,0 +1,6 @@
+baseURL = "https://gorda-grenuda.github.io/"
+languageCode = "en-us"
+title = "My New Hugo Site"
+theme = "dream"
+defaultContentLanguage = "en"
+publishDir = "public"
